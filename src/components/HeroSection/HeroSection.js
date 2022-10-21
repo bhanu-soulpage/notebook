@@ -20,9 +20,9 @@ function HeroSection() {
                             </div>
                     </div>
             
-                    <div className="col-12 col-sm-6 col-md-6">
-                        <img src = {heroImage} className="hero-image w-100"/>
-                    </div>
+//         {<div className="col-12 col-sm-6 col-md-6">
+//                     <img src = {heroImage} className="hero-image w-100"/>
+//                 </div>}
 
             </div>
         </div>
